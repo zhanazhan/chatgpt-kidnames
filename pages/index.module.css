@@ -75,3 +75,13 @@
   margin-top: 20px;
   font-size: 24px;
 }
+.reload {
+  margin-top: 12px;
+  padding: 12px;
+  color: #fff;
+  background-color: #105aa3;
+  border: none;
+  border-radius: 4px;
+  text-align: center;
+  cursor: pointer;
+}
